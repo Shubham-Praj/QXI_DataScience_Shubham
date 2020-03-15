@@ -1,0 +1,10 @@
+when git is configured properly
+
+
+git status 
+
+git add . 
+
+git commit -m "Any message" 
+
+git push 
